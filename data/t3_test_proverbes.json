@@ -1,0 +1,210 @@
+[
+    {
+        "Masked": "a beau mentir qui part de loin",
+        "Word_list": [
+            "vient",
+            "revient"
+        ],
+        "Proverb": "a beau mentir qui vient de loin"
+    },
+    {
+        "Masked": "a beau dormir qui vient de loin",
+        "Word_list": [
+            "partir",
+            "mentir"
+        ],
+        "Proverb": "a beau mentir qui vient de loin"
+    },
+    {
+        "Masked": "l’occasion forge le larron",
+        "Word_list": [
+            "fait",
+            "occasion"
+        ],
+        "Proverb": "l’occasion fait le larron"
+    }, 
+    {
+        "Masked": "endors-toi, le ciel t’aidera",
+        "Word_list": [
+            "bouge",
+            "aide"
+        ],
+        "Proverb": "aide-toi, le ciel t’aidera"
+    },
+    {
+        "Masked": "aide-toi, le ciel t’aura",
+        "Word_list": [
+            "aidera",
+            "aide"
+        ],
+        "Proverb": "aide-toi, le ciel t’aidera"
+    },
+    {
+        "Masked": "ce que femme dit, dieu le veut",
+        "Word_list": [
+            "dit",
+            "veut"
+        ],
+        "Proverb": "ce que femme veut, dieu le veut"
+    },
+    {
+        "Masked": "ce que femme veut, dieu le souhaite",
+        "Word_list": [
+            "dit",
+            "veut"
+        ],
+        "Proverb": "ce que femme veut, dieu le veut"
+    }, 
+    {
+        "Masked": "bien mal acquis ne sait jamais",
+        "Word_list": [
+            "profite",
+            "fait"
+        ],
+        "Proverb": "bien mal acquis ne profite jamais"
+    },
+    {
+        "Masked": "bon ouvrier ne déplace pas ses outils",
+        "Word_list": [
+            "fait",
+            "querelle"
+        ],
+        "Proverb": "bon ouvrier ne querelle pas ses outils"
+    },
+    {
+        "Masked": "pour le fou, c’était tous les jours fête",
+        "Word_list": [
+            "est",
+            "es"
+        ],
+        "Proverb": "pour le fou, c’est tous les jours fête"
+    },
+    {
+        "Masked": "dire et plaire, sont deux",
+        "Word_list": [
+            "dire",
+            "faire"
+        ],
+        "Proverb": "dire et faire, sont deux"
+    },
+    {
+        "Masked": "manger et faire, sont deux",
+        "Word_list": [
+            "dire",
+            "faire"
+        ],
+        "Proverb": "dire et faire, sont deux"
+    },
+    {
+        "Masked": "mieux vaut prévenir que courir",
+        "Word_list": [
+            "prévenir",
+            "guérir"
+        ],
+        "Proverb": "mieux vaut prévenir que guérir"
+    },
+    {
+        "Masked": "mieux vaut dormir que guérir",
+        "Word_list": [
+            "prévenir",
+            "guérir"
+        ],
+        "Proverb": "mieux vaut prévenir que guérir"
+    }, 
+    {
+        "Masked": "à qui dieu aide, nul ne peut être",
+        "Word_list": [
+            "aide",
+            "nuire"
+        ],
+        "Proverb": "à qui dieu aide, nul ne peut nuire"
+    },
+    {
+        "Masked": "à qui dieu veut, nul ne peut nuire",
+        "Word_list": [
+            "aide",
+            "nuire"
+        ],
+        "Proverb": "à qui dieu aide, nul ne peut nuire"
+    },
+    {
+        "Masked": "il faut le faire pour le croire",
+        "Word_list": [
+            "voir",
+            "boire"
+        ],
+        "Proverb": "il faut le voir pour le croire"
+    },
+    {
+        "Masked": "il faut le voir pour le saisir",
+        "Word_list": [
+            "boire",
+            "croire"
+        ],
+        "Proverb": "il faut le voir pour le croire"
+    },
+    {
+        "Masked": "on ne mord pas le poisson qui est encore dans la mer",
+        "Word_list": [
+            "vend",
+            "dit"
+        ],
+        "Proverb": "on ne vend pas le poisson qui est encore dans la mer"
+    },
+    {
+        "Masked": "on ne vend pas le poisson qui navigue encore dans la mer",
+        "Word_list": [
+            "est",
+            "nage"
+        ],
+        "Proverb": "on ne vend pas le poisson qui est encore dans la mer"
+    },
+    {
+        "Masked": "le poisson mange par la tête",
+        "Word_list": [
+            "pourrit",
+            "respire"
+        ],
+        "Proverb": "le poisson pourrit par la tête"
+    },
+    {
+        "Masked": "repose-toi plutôt sans souper, que de te lever avec des dettes",
+        "Word_list": [
+            "lève",
+            "couche"
+        ],
+        "Proverb": "couche-toi plutôt sans souper, que de te lever avec des dettes"
+    }, 
+    {
+        "Masked": "couche-toi plutôt sans souper, que de te retrouver avec des dettes",
+        "Word_list": [
+            "mettre",
+            "lever"
+        ],
+        "Proverb": "couche-toi plutôt sans souper, que de te lever avec des dettes"
+    },
+    {
+        "Masked": "les montagnes ne se déplacent point, mais les hommes se rencontrent",
+        "Word_list": [
+            "rencontrent",
+            "paient"
+        ],
+        "Proverb": "les montagnes ne se rencontrent point, mais les hommes se rencontrent"
+    },
+    {
+        "Masked": "les montagnes ne se rencontrent point, mais les hommes se déplacent",
+        "Word_list": [
+            "rencontrent",
+            "battent"
+        ],
+        "Proverb": "les montagnes ne se rencontrent point, mais les hommes se rencontrent"
+    },
+    {
+        "Masked": "étudier peu, chasse beaucoup de maladies",
+        "Word_list": [
+            "manger",
+            "parle"
+        ],
+        "Proverb": "manger peu, chasse beaucoup de maladies"
+    }
+]
